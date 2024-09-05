@@ -1,4 +1,4 @@
-import { Sourcerer } from '@/providers/base';
+import { Sourcerer, Embed } from '@/providers/base';
 import { foreverPlayerScraper } from './sources/foreverplayer';
 
 export function gatherAllSources(): Array<Sourcerer> {

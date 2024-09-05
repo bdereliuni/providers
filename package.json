@@ -1,5 +1,5 @@
 {
-  "name": "@movie-web/providers",
+  "name": "@bdereliuni/providers",
   "version": "2.3.0",
   "description": "Package that contains all the providers of movie-web",
   "type": "module",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/movie-web/providers.git"
+    "url": "git+https://github.com/bdereliuni/providers.git"
   },
   "keywords": [
     "movie-web",
@@ -31,7 +31,7 @@
   "author": "movie-web",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/movie-web/providers/issues"
+    "url": "https://github.com/bdereliuni/providers/issues"
   },
   "homepage": "https://movie-web.github.io/providers/",
   "scripts": {
